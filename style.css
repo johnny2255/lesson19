@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1220;
+    margin: 0 auto;
+}
+body{
+background-color: rgb(204, 56, 56);
+}
+.text{
+font-size: 64px;
+font-weight: 700;
+line-height: 77.45px;
+text-align: center;
+color: yellow;
+}
+.text span{
+    font-family: Inter;
+font-size: 64px;
+font-weight: 400;
+line-height: 77.45px;
+text-align: center;
+color: white;
+}
+.ota{
+    background-color: yellow;
+    padding: 14px 50px 120px 50px;
+}
+.logo-ota{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.card{
+    width: 300px;
+    background-color: black;
+    text-align: center;
+}
+.card h2 {
+   
+font-size: 24px;
+font-weight: 700;
+line-height: 29.05px;
+text-align: center;
+color: white;
+margin: 10px auto;
+
+}
+.card p{
+    color: white;
+    padding: 0px 30px 14px 24px;
+}
+.katta-ota{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+
+
+
+
+
+
+
+
+
